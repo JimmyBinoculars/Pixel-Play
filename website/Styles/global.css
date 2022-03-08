@@ -315,5 +315,6 @@ h2 {
     padding-right: 60px;
 }
 .signup {
-    padding-left: 100px;
+    margin-left: 750px;
+    border-radius: 10%;
 }
