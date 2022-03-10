@@ -318,3 +318,42 @@ h2 {
     margin-left: 750px;
     border-radius: 10%;
 }
+#signup input[type=text] {
+    width: 250px;
+    height: 28px;
+    font-size: 14px;
+    padding: 0 10px;
+    border-radius: 30px;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+#signup input[type=email] {
+    width: 250px;
+    height: 28px;
+    font-size: 14px;
+    padding: 0 10px;
+    border-radius: 30px;
+    border-radius: 30px;
+}
+#signup input[type=submit] {
+    border: 0;
+    width: 80px;
+    height: 30px;
+    font-size: 14px;
+    background-color: #345995;
+    color: white;
+    border-radius: 30px;
+    transition: all 500ms ease-out;
+    cursor: pointer;
+}
+#signup input[type=submit]:hover {
+    background-color: #f46036;
+    transition: all 250ms ease-out;
+}
+#signup input{
+    margin-left: 750px;
+    margin-bottom: 50px;
+}
+#signup p{
+    margin-left: 750px;
+}
